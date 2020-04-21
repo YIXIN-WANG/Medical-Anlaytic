@@ -1,1 +1,1 @@
-# Medical-Anlaytic
+Medical-Analytic
